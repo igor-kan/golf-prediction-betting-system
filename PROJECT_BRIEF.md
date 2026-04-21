@@ -9,6 +9,14 @@ Path: `/home/igorkan/repos/golf-prediction-betting-system`
 - Title: Golf Prediction and Betting System
 - Summary: Repository for Golf outcome prediction and betting workflows using publicly available data.
 
+## Repository Hosting Metadata
+- Origin Remote: `https://github.com/igor-kan/golf-prediction-betting-system.git`
+- GitHub Slug: `igor-kan/golf-prediction-betting-system`
+- GitHub Description: Not available
+- GitHub Homepage: Not set
+- GitHub Topics: None detected
+- GitHub Last Push Timestamp: 2026-04-21T21:09:01Z
+
 ## Detected Stack
 - Python
 
@@ -32,7 +40,7 @@ Quality:
 - `Review CI/workflow commands in .github/workflows`
 
 ## Codebase Signals
-- Files scanned (capped): 47
+- Files scanned (capped): 48
 - Common extensions: .py, .md, .sh, [no_ext], .txt, .json, .html
 - Test signal: Test-named files detected
 - CI workflows present: Yes
